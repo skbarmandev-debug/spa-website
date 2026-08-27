@@ -1,0 +1,6 @@
+{
+  "name": "Yuki Luxury Headspa",
+  "description": "Luxury Japanese Head Spa, Hydrafacial, and advanced skincare destination in Pasadena, Maryland.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
